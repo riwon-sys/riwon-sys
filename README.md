@@ -1,6 +1,6 @@
 # Hi, I'm Riwon 👋
 
-**풀스택 개발자 | Spring · React · Java · Redis · Flutter · MVC**
+** 개발자 | Spring · React · Java · Redis · Flutter · MVC**
 
 ---
 
